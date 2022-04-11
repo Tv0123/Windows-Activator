@@ -155,4 +155,7 @@ exit
 :11
 cls
 echo Windows Activator
-start
+start https://github.com/Tv0123/Windows-Activator
+echo Press enter to exit
+pause >null
+exit
