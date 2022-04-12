@@ -11,6 +11,7 @@ if %agree% == Agreed goto main
 echo You must agree to use the program
 echo press enter to exit
 pause >null
+exit
 
 :main
 cls
