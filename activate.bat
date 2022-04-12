@@ -1,6 +1,8 @@
 @echo off
 echo Windows Activator
 echo.
+echo make sure you run this script as an Admin
+echo.
 echo Use at your own risk, I am not responsible
 echo for any damages caused by this program
 echo.
@@ -74,6 +76,7 @@ echo Windows Activator
 echo Attempting to activate Windows Home Single Language
 slmgr /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
@@ -87,6 +90,7 @@ echo Windows Activator
 echo Attempting to activate Windows Home Country Specific
 slmgr /ipk PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
@@ -100,6 +104,7 @@ echo Windows Activator
 echo Attempting to activate Windows Professional
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
@@ -113,6 +118,7 @@ echo Windows Activator
 echo Attempting to activate Windows Professional N
 slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
@@ -126,6 +132,7 @@ echo Windows Activator
 echo Attempting to activate Windows Education
 slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
@@ -139,6 +146,7 @@ echo Windows Activator
 echo Attempting to activate Windows Education N
 slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
@@ -152,6 +160,7 @@ echo Windows Activator
 echo Attempting to activate Windows Enterprise
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
@@ -165,6 +174,7 @@ echo Windows Activator
 echo Attempting to activate Windows Enterprise N
 slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 slmgr /skms s8.uk.to
+echo This next step might take a little bit of time
 slmgr /ato
 echo Activated Windows!
 echo restart for it to change
